@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TeamProjectPG7-GreenHarvest/",
+    "build": "vite build --base=/114_html-css_bt-Unialex/",
     "preview": "vite preview"
   },
   "devDependencies": {
